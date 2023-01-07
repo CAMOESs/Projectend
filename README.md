@@ -8,14 +8,19 @@ Things you may want to cover:
 * Ruby version
 
   . Ruby3.0.1p64
+  
   . Rails 6.0.6
  
 * execution procedure
 
   $ git clone git@github.com:CAMOESs/Projectend.git
+  
   $ cd Projectend
+  
   $ bundle install 
+  
   $ rails db:create && rails db:migrate
+  
   $ rails s
  
 * System dependencies
