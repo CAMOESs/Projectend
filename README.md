@@ -8,7 +8,10 @@ Things you may want to cover:
 * Ruby version
   . Ruby3.0.1p64
   . Rails 6.0.6
-  
+ 
+* execution procedure
+  $ git clone  
+ 
 * System dependencies
 
 * Configuration
